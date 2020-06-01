@@ -1,1 +1,1 @@
-print("Linking of Github and Rstudio....succsess!!")
+print("Linking of Github and Rstudio....success!!")
