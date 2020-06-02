@@ -7,4 +7,3 @@ xmlName(rootNode)
 names(rootNode)
 rootNode[[1]]
 xpathSApply(rootNode,"//name",xmlValue)
- 
